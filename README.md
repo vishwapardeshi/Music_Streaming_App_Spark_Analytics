@@ -7,7 +7,7 @@ Sparkify is a fictional music streaming service. Like any product-based company,
 
 ## Outline
 
-## Dataset
+### Dataset
 The dataset contains log of the activities of each user on the service. It captures their behaviour - whether they are playing songs, logging out, upgrading their service or cancelling it.
 cases of interactions which cannot be attributed to registered users are removed and a brief general overview of the reduced dataset is given.
 
